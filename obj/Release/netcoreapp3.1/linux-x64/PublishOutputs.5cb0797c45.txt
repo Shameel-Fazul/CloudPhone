@@ -1,0 +1,8 @@
+D:\.NET Projects\Functions\CloudPhone\src\CloudPhone\bin\Release\netcoreapp3.1\publish\CloudPhone.dll
+D:\.NET Projects\Functions\CloudPhone\src\CloudPhone\bin\Release\netcoreapp3.1\publish\CloudPhone.deps.json
+D:\.NET Projects\Functions\CloudPhone\src\CloudPhone\bin\Release\netcoreapp3.1\publish\CloudPhone.runtimeconfig.json
+D:\.NET Projects\Functions\CloudPhone\src\CloudPhone\bin\Release\netcoreapp3.1\publish\CloudPhone.pdb
+D:\.NET Projects\Functions\CloudPhone\src\CloudPhone\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\.NET Projects\Functions\CloudPhone\src\CloudPhone\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\.NET Projects\Functions\CloudPhone\src\CloudPhone\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+D:\.NET Projects\Functions\CloudPhone\src\CloudPhone\bin\Release\netcoreapp3.1\publish\AWSSDK.SimpleNotificationService.dll

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CloudPhone
+build_property.ProjectDir = D:\.NET Projects\Functions\CloudPhone\src\CloudPhone\
